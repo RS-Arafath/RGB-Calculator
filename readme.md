@@ -30,8 +30,6 @@ A clean, modern, and interactive **Basic Calculator** built with **HTML, CSS, an
   </tr>
 </table>
 
-> Replace `YOUR_SCREENSHOT_URL` with your calculator screenshot after uploading it to the repository.
-
 ---
 
 ## ✨ Features
@@ -239,9 +237,9 @@ Possible improvements for future versions:
 
 **Junior Web Developer | Front-End & MERN Stack Developer**
 
-* 🌐 Portfolio: `YOUR_PORTFOLIO_URL`
-* 💼 LinkedIn: `YOUR_LINKEDIN_URL`
-* 🐙 GitHub: `YOUR_GITHUB_URL`
+* 🌐 Portfolio: `https://rs-arafath.vercel.app/`
+* 💼 LinkedIn: `https://www.linkedin.com/in/rs-arafath`
+
 
 ---
 
