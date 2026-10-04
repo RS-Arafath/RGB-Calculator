@@ -19,9 +19,16 @@ A clean, modern, and interactive **Basic Calculator** built with **HTML, CSS, an
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="YOUR_SCREENSHOT_URL" alt="Basic Calculator Preview" width="400" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="/images/light-theme.png" alt="Light Theme" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="/images/dark-theme.png" alt="Dark Theme" width="100%" />
+    </td>
+  </tr>
+</table>
 
 > Replace `YOUR_SCREENSHOT_URL` with your calculator screenshot after uploading it to the repository.
 
