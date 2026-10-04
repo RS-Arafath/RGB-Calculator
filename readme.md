@@ -149,15 +149,6 @@ These details are implemented with CSS animations and JavaScript event handling.
 
 ---
 
-## 📁 Project Structure
-
-```text
-basic-calculator/
-│
-├── index.html
-└── README.md
-```
-
 The project is intentionally lightweight and does not require a build tool or package installation.
 
 ---
@@ -173,9 +164,7 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 ### Navigate to the Project
 
 ```bash
-cd basic-calculator
-```
-
+cd RGB-Calculator
 ### Run the Project
 
 Open `index.html` directly in your browser.
