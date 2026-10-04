@@ -226,9 +226,8 @@ Possible improvements for future versions:
 
 **Junior Web Developer | Front-End & MERN Stack Developer**
 
-* 🌐 Portfolio: `https://rs-arafath.vercel.app/`
-* 💼 LinkedIn: `https://www.linkedin.com/in/rs-arafath`
-
+- 🌐 **Portfolio:** [rs-arafath.vercel.app](https://rs-arafath.vercel.app/)
+- 💼 **LinkedIn:** [RS Arafath](https://www.linkedin.com/in/rs-arafath)
 
 ---
 
